@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.firstcol{
+    background-color: darkslategray;
+    height: 1000px;
+    width: 300px;
+    color: white;
+   
+}.p1{
+    text-align: center;
+    font-size: 25px;
+    border-bottom:solid 1px white;
+}
+.secondcol{
+    background-color: w;
+    width: 800px;
+}
+.name{
+    text-align: center;
+    color: darkslategray;
+   /* border-bottom:solid 1px brown; */
+
+}
+.p2{
+    text-align: center;
+    font-size: 20px;
+    border-bottom: solid 1px  brown;
+}
+.p4{
+    text-align: center;
+    font-size: 20px;
+    border-bottom:solid 1px white;
+}
+.lang{
+    text-align: center;
+    font-size: 20px;   
+}
+.edu{
+    border-bottom:solid 1px brown;
+    color: darkslategray;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    /* font-family: 'Andada Pro', serif; */
+}
+.myself{
+    border-bottom:solid 1px brown;
+    color: darkslategray;
+    font-size: 20px;
+    /* font-family: 'Andada Pro', serif; */
+    font-family: 'Anton', sans-serif;
+}
+.work{ border-bottom:solid 1px brown;
+    font-size: 20px;
+    /* font-family: 'Andada Pro', serif; */
+    color: darkslategray;
+    font-family: 'Anton', sans-serif;
+}
+
+.project{
+    border-bottom:solid 1px brown;
+    color: darkslategray;
+    font-size: 20px;
+    /* font-family: 'Andada Pro', serif; */
+    font-family: 'Anton', sans-serif;
+}
+.univ{
+    font-size: 15px;
+}
+.degree{
+    font-size: 15px;
+}
+.school{
+    font-size: 15px;
+
+}
+.mearn{
+    color:;
+}
+
+
+
+/* .secondcol{
+    background-color: lightseagreen;
+   
+}
+.child1{
+    color: brown;
+} */
